@@ -1,0 +1,2 @@
+class Gooogle < ApplicationRecord
+end
