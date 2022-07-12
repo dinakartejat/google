@@ -1,0 +1,2 @@
+class Googlephoto < ApplicationRecord
+end
